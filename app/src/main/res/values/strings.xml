@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RebecaQuezada</string>
+    <string name="txt_titulo">Ubique su sede Santo Tomas</string>
+    <string name="btn_Admision">UST Admision 2024</string>
+    <string name="txt_bienvenido">Bienvenido a la UST</string>
+    <string name="btn_ingresar">Ingresar y ver localidades de sedes</string>
+</resources>
